@@ -1,0 +1,12 @@
+LIBRARY GAYCHUK_SR_DLL.dll
+
+EXPORTS
+	results
+	text
+	fileName
+	reportTXT
+	OpenDlgFile
+	LoadFile
+	ReadTextFromFile
+	SearchingLengthWords
+	FinalizeReport
